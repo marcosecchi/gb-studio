@@ -269,6 +269,7 @@
   "FIELD_NUM_TRIGGERS_LABEL": "Numero di attivatori in scena",
   "FIELD_ACTORS_COUNT": "Questa scena ha utilizzato {actorCount} dei {maxActors} disponibili",
   "FIELD_FRAMES_COUNT": "Questa scena ha utilizzato {frameCount} dei {maxFrames} disponibili",
+  "FIELD_SPRITE_TILES_COUNT": "Questa scena utilizza {tileCount} tessere di {maxTiles} disponibili",
   "FIELD_TRIGGERS_COUNT": "Questa scena ha utilizzato {triggerCount} dei {maxTriggers} disponibili",
   "FIELD_WARNING": "Attenzione",
   "FIELD_TMP_DIRECTORY": "Cartella temporanea",
